@@ -1,0 +1,9 @@
+"unlitgeneric"
+{
+	"$basetexture" "arcadia/gallifrey_stargate/glyphs_on_sg"
+	"$bumpmap"    "arcadia/gallifrey_stargate/normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"    "1"
+	"$additive" 1
+	"$selfillum" 1
+}
